@@ -1,2 +1,2 @@
-# NodeJS MySQL 
+# NodeJS - ExpressJS - MySQL
 ## Simple Crud Application
