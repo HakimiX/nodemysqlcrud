@@ -3,7 +3,7 @@
 
 ### Commands
 
-Create the project
+**Create the project**
 
 ```javascript
 mkdir app-name
@@ -17,7 +17,7 @@ Initialize project
 npm init
 ```
 
-Install required modules
+**Install required modules**
 * express: used to create handle routing and process requests from the client.
 * express-fileupload: Simple express file upload middleware that wraps around busboy.
 * body-parser: used to parse incoming request from the client.
@@ -33,7 +33,8 @@ npm install express express-fileupload body-parser mysql ejs req-flash --save
 npm nodemon -g
 ```
 
-Create the database 
+
+**Create the database** 
 
 ```javascript
 CREATE DATABASE database-name;
